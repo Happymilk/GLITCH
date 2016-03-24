@@ -1,0 +1,14 @@
+Data\fade.xnb
+Data\null.xnb
+Data\Hero.xnb
+Data\TileSets\tileset1.xnb
+Data\Splash\Image0.xnb
+Data\Enemy.xnb
+Data\Font.xnb
+Data\FontSmall.xnb
+Data\FontItalic.xnb
+Data\Bullets.xnb
+Data\Splash\Image1.xnb
+Data\Splash\Image2.xnb
+Data\Splash\Image3.xnb
+Data\Teacher.xnb

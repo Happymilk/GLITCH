@@ -1,0 +1,9 @@
+Load=[Title]
+
+Load=[Axis][Align][Font][Animation]
+[2][Center][Font][Fade]
+
+Load=[Item][LinkType][LinkID]
+[IN PROGRESS...][Screen][OptionsScreen]
+
+EndLoad=[Title]

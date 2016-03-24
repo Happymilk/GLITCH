@@ -1,0 +1,10 @@
+﻿Load=[Title]
+
+Load=[Axis][Align][Font][Animation]
+[2][Center][Font][Fade]
+
+Load=[Item][LinkType][LinkID]
+[Your first experience][Screen][Lvl1]
+[Endless][Screen][Lvl2]
+
+EndLoad=[Title]

@@ -1,0 +1,21 @@
+﻿Load=[Title]
+
+Load=[Axis][Align][Font][Animation]
+[2][Center][FontSmall][Fade]
+
+Load=[Item][LinkType][LinkID]
+[START][Screen][Lvl5]
+[***************************************][Screen][Lvl1]
+[* CHAPTER 5. "GO AHEAD, MY APPRENTICE!" *][Screen][Lvl1]
+[***************************************][Screen][Lvl1]
+[-----DANNY:------------------------------------------------------------------------------------------------- ][Screen][Lvl1]
+[OMG. SOMETIMES I JUST FALL INTO A STUPOR OF YOUR LESSONS. LIFE IS COMPLICATED AND HORRIBLE.][Screen][Lvl1]
+[-----VOICE:------------------------------------------------------------------------------------------------- ][Screen][Lvl1]
+[ENOUGH LIFE NOT MATED AND BOW - THIS IS A GIFT.][Screen][Lvl1]
+[-----DANNY:------------------------------------------------------------------------------------------------- ][Screen][Lvl1]
+[I THINK I BEGIN TO UNDERSTAND THE LOGIC.][Screen][Lvl1]
+[-----VOICE:------------------------------------------------------------------------------------------------- ][Screen][Lvl1]
+[GO AHEAD, MY APPRENTICE! TO NEW KNOWLEDGE.][Screen][Lvl1]
+[------------------------------------------------------------------------------------------------------------ ][Screen][Lvl1]
+
+EndLoad=[Title]

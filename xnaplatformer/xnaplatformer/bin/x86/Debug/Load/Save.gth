@@ -1,0 +1,19 @@
+﻿Load=[Title]
+
+Load=[Axis][Align][Font][Animation]
+[2][Center][Font][Fade]
+
+Load=[Item][LinkType][LinkID]
+[INTRODUCTION & YOUR FIRST EXPERIENCE][Screen][Story00]
+[THE STORY BEGINS][Screen][Story20]
+[IT'S...][Screen][Story30]
+[COME WITH ME][Screen][Story40]
+["GO AHEAD, MY APPRENTICE!"][Screen][Story50]
+[IT'S STILL UNCLEAR][Screen][Story60]
+[ROAD ISN'T FINISHED...][Screen][Story70]
+[...WHILE ON IT YOU GO.][Screen][Story80]
+[ALL IS PRETTY SIMPLE...][Screen][Story90]
+[..BUT IT DOESN'T MAKE SENCE][Screen][Story100]
+[BACK][Screen][TitleScreen]
+
+EndLoad=[Title]

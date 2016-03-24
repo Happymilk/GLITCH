@@ -1,0 +1,21 @@
+﻿Load=[Title]
+
+Load=[Axis][Align][Font][Animation]
+[2][Center][FontSmall][Fade]
+
+Load=[Item][LinkType][LinkID]
+[START][Screen][Lvl10]
+[*****************************************][Screen][Lvl1]
+[* CHAPTER 10. ...BUT IT DOESN'T MAKE SENCE *][Screen][Lvl1]
+[*****************************************][Screen][Lvl1]
+[-----DANNY:------------------------------------------------------------------------------------------------- ][Screen][Lvl1]
+[I DO NOT UNDERSTAND. IT'S ALL HARD AND SIMPLE. SENSE BUT ALSO DOESN'T MAKE SENCE.][Screen][Lvl1]
+[-----VOICE:------------------------------------------------------------------------------------------------- ][Screen][Lvl1]
+[I SEE YOU'RE CLOSE TO UNDERSTANDING.][Screen][Lvl1]
+[-----DANNY:------------------------------------------------------------------------------------------------- ][Screen][Lvl1]
+[IS IT TRUE? I EVEN MORE CONFUSED.][Screen][Lvl1]
+[-----VOICE:------------------------------------------------------------------------------------------------- ][Screen][Lvl1]
+[DON'T WORRY - YOU ALMOST FOUND THE KNOWLEDGE INSIDE YOURSELF.][Screen][Lvl1]
+[------------------------------------------------------------------------------------------------------------ ][Screen][Lvl1]
+
+EndLoad=[Title]

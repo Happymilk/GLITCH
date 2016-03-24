@@ -1,0 +1,64 @@
+Data\fade.xnb
+Data\null.xnb
+Data\Hero.xnb
+Data\TileSets\tileset1.xnb
+Data\Bullets.xnb
+Data\Splash\Image0.xnb
+Data\Splash\Image1.xnb
+Data\Splash\Image2.xnb
+Data\Splash\Image3.xnb
+Data\Enemy.xnb
+Data\Teacher.xnb
+Data\TileSets\TileSet.xnb
+Data\Font.xnb
+Data\FontSmall.xnb
+Data\FontItalic.xnb
+Data\FontSmallItalic.xnb
+Data\Sound\death.xnb
+Data\Sound\down.xnb
+Data\Sound\jump.xnb
+Data\Sound\powerup.xnb
+Data\Sound\step.xnb
+Data\Sound\up.xnb
+Data\Sound\back.xnb
+Data\Sound\select.xnb
+Data\Music\01 - The beginning.xnb
+Data\Music\01 - The beginning.wma
+Data\Music\02 - Nature.xnb
+Data\Music\02 - Nature.wma
+Data\Music\03 - The prologue.xnb
+Data\Music\03 - The prologue.wma
+Data\Music\04 - 755.xnb
+Data\Music\04 - 755.wma
+Data\Music\05 - F99.xnb
+Data\Music\05 - F99.wma
+Data\Music\06 - Morte.xnb
+Data\Music\06 - Morte.wma
+Data\Music\07 - Eyes.xnb
+Data\Music\07 - Eyes.wma
+Data\Music\08 - Night.xnb
+Data\Music\08 - Night.wma
+Data\Music\09 - Positive.xnb
+Data\Music\09 - Positive.wma
+Data\Music\10 - Abasement.xnb
+Data\Music\10 - Abasement.wma
+Data\Music\11 - Rooftops.xnb
+Data\Music\11 - Rooftops.wma
+Data\Music\12 - Gytreg.xnb
+Data\Music\12 - Gytreg.wma
+Data\Music\13 - Calm.xnb
+Data\Music\13 - Calm.wma
+Data\Music\14 - Siventic.xnb
+Data\Music\14 - Siventic.wma
+Data\Music\15 - Slowmotion.xnb
+Data\Music\15 - Slowmotion.wma
+Data\Music\17 - Mixture.xnb
+Data\Music\17 - Mixture.wma
+Data\Music\18 - Unlimit.xnb
+Data\Music\18 - Unlimit.wma
+Data\Music\19 - Title.xnb
+Data\Music\19 - Title.wma
+Data\Music\20 - The ending.xnb
+Data\Music\20 - The ending.wma
+Data\Music\16 - Grumpy.xnb
+Data\Music\16 - Grumpy.wma

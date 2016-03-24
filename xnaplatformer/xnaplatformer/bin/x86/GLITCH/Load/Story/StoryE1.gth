@@ -1,0 +1,11 @@
+﻿Load=[Title]
+
+Load=[Axis][Align][Font][Animation]
+[2][Center][FontSmallItalic][Fade]
+
+Load=[Item][LinkType][LinkID]
+[NEXT][Screen][StoryE2]
+[THEN DANNY PLUNGED HIMSELF IN THIS BLACK AND WHITE WORLD AND HE RETURNED BACK.][Screen0][TitleScreen]
+[HE WILL FOREVER REMAIN BLACK AND WHITE IN COLOR WORLD, AS WHITE RAVEN.][Screen0][TitleScreen]
+
+EndLoad=[Title]

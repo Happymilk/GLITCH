@@ -1,0 +1,21 @@
+﻿Load=[Title]
+
+Load=[Axis][Align][Font][Animation]
+[2][Center][FontSmall][Fade]
+
+Load=[Item][LinkType][LinkID]
+[START][Screen][Lvl8]
+[**********************************][Screen][Lvl1]
+[* CHAPTER 8. ...WHILE ON IT YOU GO. *][Screen][Lvl1]
+[**********************************][Screen][Lvl1]
+[-----VOICE:------------------------------------------------------------------------------------------------- ][Screen][Lvl1]
+[...WHILE ON IT YOU GO.][Screen][Lvl1]
+[-----DANNY:------------------------------------------------------------------------------------------------- ][Screen][Lvl1]
+[UNTIL I COMPREHEND ALL AND EVERYTHING - YOU WILL LAG BEHIND?][Screen][Lvl1]
+[-----VOICE:------------------------------------------------------------------------------------------------- ][Screen][Lvl1]
+[NOT REALLY. IT'S MORE COMPLICATED, BUT YOU DON'T UNDERSTAND.][Screen][Lvl1]
+[-----DANNY:------------------------------------------------------------------------------------------------- ][Screen][Lvl1]
+[OKAY.][Screen][Lvl1]
+[------------------------------------------------------------------------------------------------------------ ][Screen][Lvl1]
+
+EndLoad=[Title]

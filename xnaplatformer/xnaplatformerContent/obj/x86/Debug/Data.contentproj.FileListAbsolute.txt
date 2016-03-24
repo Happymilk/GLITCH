@@ -1,0 +1,2 @@
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformerContent\obj\x86\Debug\Data.contentprojResolveAssemblyReference.cache
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformerContent\obj\x86\Debug\Data.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,296 @@
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\GLITCH.csprojResolveAssemblyReference.cache
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\GLITCH.exe
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\GLITCH.pdb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\Load\Credits.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\Load\Enemies.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\Load\Exit.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\Load\Maps\Map1.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\Load\Options.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\Load\Player.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\Load\Menu.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\Load\Splash.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\Data\fade.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\Data\null.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\Data\Hero.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\Data\TileSets\tileset1.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\Data\Splash\Image1.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\Data\Splash\Image2.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\Data\Splash\Image3.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\Data\Splash\Image0.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\Data\Enemy.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\Data\Font.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\Data\FontSmall.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\Data\FontItalic.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\GLITCH.exe
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\GLITCH.pdb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Credits.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Exit.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map1.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Options.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Menu.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Splash.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\fade.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\null.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Hero.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\TileSets\tileset1.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Splash\Image0.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Enemy.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Font.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\FontSmall.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\FontItalic.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\GLITCH.exe
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\GLITCH.pdb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Bullets.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Splash\Image1.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Splash\Image2.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Splash\Image3.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player\Level1.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map2.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player\Level2.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Save.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemies\Level1.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemies\Level2.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Teacher.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemies\Level3.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemies\Level4.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemies\Level5.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemies\Level6.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemies\Level7.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemies\Level8.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemies\Level9.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemies\Level10.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map3.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map4.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map5.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map6.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map7.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map8.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map9.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map10.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player\Level3.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player\Level4.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player\Level5.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player\Level6.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player\Level7.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player\Level8.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player\Level9.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player\Level10.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Sound\down.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Sound\up.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Controls.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Msg.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Sound\death.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Sound\jump.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Sound\powerup.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Sound\step.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Sound\back.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Sound\select.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\01 - The beginning.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\02 - Nature.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\03 - The prologue.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\05 - F99.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\07 - Eyes.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\09 - Positive.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\11 - Rooftops.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\20 - The ending.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\01 - The beginning.wma
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\02 - Nature.wma
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\03 - The prologue.wma
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\05 - F99.wma
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\07 - Eyes.wma
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\09 - Positive.wma
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\11 - Rooftops.wma
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\20 - The ending.wma
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\TileSets\TileSet.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\04 - 755.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\06 - Morte.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\08 - Night.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\10 - Abasement.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\12 - Gytreg.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\13 - Calm.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\14 - Siventic.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\15 - Slowmotion.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\16 - Grumpy.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\17 - Mixture.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\18 - Unlimit.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\19 - Title.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\04 - 755.wma
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\06 - Morte.wma
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\08 - Night.wma
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\10 - Abasement.wma
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\12 - Gytreg.wma
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\13 - Calm.wma
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\14 - Siventic.wma
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\15 - Slowmotion.wma
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\16 - Grumpy.wma
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\17 - Mixture.wma
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\18 - Unlimit.wma
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\19 - Title.wma
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story00.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story01.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story02.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story03.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story04.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story10.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story11.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story20.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story21.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story30.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story31.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story40.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story41.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story50.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story51.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story60.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story61.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story70.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story71.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story80.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story81.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story90.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story91.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story100.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story101.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\StoryE0.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\StoryE1.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\StoryE2.gth
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\FontSmallItalic.xnb
+C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Difficulty.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Controls.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Credits.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Difficulty.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemies\Level1.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemies\Level2.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemies\Level3.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemies\Level4.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemies\Level5.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemies\Level6.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemies\Level7.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemies\Level8.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemies\Level9.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemies\Level10.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Exit.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map1.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map2.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map3.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map4.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map5.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map6.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map7.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map8.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map9.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map10.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Options.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player\Level1.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Menu.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player\Level2.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player\Level3.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player\Level4.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player\Level5.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player\Level6.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player\Level7.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player\Level8.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player\Level9.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player\Level10.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Save.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Splash.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Msg.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story00.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story01.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story02.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story03.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story04.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story10.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story11.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story20.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story21.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story30.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story31.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story40.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story41.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story50.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story51.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story60.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story61.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story70.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story71.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story80.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story81.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story90.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story91.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story100.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\Story101.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\StoryE0.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\StoryE1.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Story\StoryE2.gth
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\fade.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\null.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Hero.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\TileSets\tileset1.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Bullets.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Splash\Image0.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Splash\Image1.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Splash\Image2.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Splash\Image3.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Enemy.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Teacher.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\TileSets\TileSet.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Font.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\FontSmall.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\FontItalic.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\FontSmallItalic.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Sound\death.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Sound\down.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Sound\jump.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Sound\powerup.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Sound\step.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Sound\up.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Sound\back.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Sound\select.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\01 - The beginning.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\02 - Nature.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\03 - The prologue.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\04 - 755.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\05 - F99.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\06 - Morte.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\07 - Eyes.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\08 - Night.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\09 - Positive.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\10 - Abasement.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\11 - Rooftops.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\12 - Gytreg.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\13 - Calm.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\14 - Siventic.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\15 - Slowmotion.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\17 - Mixture.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\18 - Unlimit.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\19 - Title.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\20 - The ending.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\16 - Grumpy.xnb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\01 - The beginning.wma
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\02 - Nature.wma
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\03 - The prologue.wma
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\04 - 755.wma
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\05 - F99.wma
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\06 - Morte.wma
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\07 - Eyes.wma
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\08 - Night.wma
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\09 - Positive.wma
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\10 - Abasement.wma
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\11 - Rooftops.wma
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\12 - Gytreg.wma
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\13 - Calm.wma
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\14 - Siventic.wma
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\15 - Slowmotion.wma
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\17 - Mixture.wma
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\18 - Unlimit.wma
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\19 - Title.wma
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\20 - The ending.wma
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Music\16 - Grumpy.wma
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\GLITCH.exe
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\GLITCH.pdb
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\GLITCH.csprojResolveAssemblyReference.cache
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\GLITCH.exe
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\GLITCH.pdb

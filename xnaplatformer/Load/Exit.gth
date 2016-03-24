@@ -1,0 +1,10 @@
+﻿Load=[Title]
+
+Load=[Axis][Align][Font][Animation]
+[2][Center][Font][Fade]
+
+Load=[Item][LinkType][LinkID]
+[Yes, I really want it!!!][Screen][RealExitScreen]
+[No, I want to continue my way.][Screen][TitleScreen]
+
+EndLoad=[Title]

@@ -1,0 +1,2 @@
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\obj\Xbox 360\Debug\Xbox 360 Copy (2) of GLITCH.csprojResolveAssemblyReference.cache
+D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

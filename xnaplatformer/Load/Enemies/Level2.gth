@@ -1,0 +1,6 @@
+﻿Load=[Level2]
+
+Load=[Image][Position][Frames][MoveSpeed][Range][Health]
+[Enemy][400,164][3,4][500][1000][100]
+
+EndLoad=[Level2]

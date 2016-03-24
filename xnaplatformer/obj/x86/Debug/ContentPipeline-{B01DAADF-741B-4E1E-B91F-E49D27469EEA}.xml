@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>fade.png</Source>
+      <Name>fade</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\fade.xnb</Output>
+      <Time>2012-12-09T04:51:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>null.png</Source>
+      <Name>null</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\null.xnb</Output>
+      <Time>2012-12-09T18:47:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero.png</Source>
+      <Name>Hero</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Hero.xnb</Output>
+      <Time>2014-11-04T17:03:33.1576432+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\tileset1.png</Source>
+      <Name>TileSets\tileset1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\TileSets\tileset1.xnb</Output>
+      <Time>2014-10-22T10:19:53.8132398+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Splash\Image0.png</Source>
+      <Name>Splash\Image0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Splash\Image0.xnb</Output>
+      <Time>2014-11-08T19:18:18.8850439+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy.png</Source>
+      <Name>Enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Enemy.xnb</Output>
+      <Time>2014-11-09T03:53:06.9048936+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Font.xnb</Output>
+      <Time>2014-10-26T22:43:13.8933091+03:00</Time>
+    </Item>
+    <Item>
+      <Source>FontSmall.spritefont</Source>
+      <Name>FontSmall</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\FontSmall.xnb</Output>
+      <Time>2014-10-26T22:25:47.305791+03:00</Time>
+    </Item>
+    <Item>
+      <Source>FontItalic.spritefont</Source>
+      <Name>FontItalic</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\FontItalic.xnb</Output>
+      <Time>2014-10-28T10:40:08.4520955+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullets.png</Source>
+      <Name>Bullets</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Bullets.xnb</Output>
+      <Time>2014-11-08T18:35:15.3056053+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Splash\Image1.png</Source>
+      <Name>Splash\Image1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Splash\Image1.xnb</Output>
+      <Time>2014-11-08T19:20:02.7431044+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Splash\Image2.png</Source>
+      <Name>Splash\Image2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Splash\Image2.xnb</Output>
+      <Time>2014-11-08T19:20:02.7351127+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Splash\Image3.png</Source>
+      <Name>Splash\Image3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Splash\Image3.xnb</Output>
+      <Time>2014-11-08T19:20:02.7209548+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Teacher.png</Source>
+      <Name>Teacher</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\Teacher.xnb</Output>
+      <Time>2014-11-09T03:53:06.9068954+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{B01DAADF-741B-4E1E-B91F-E49D27469EEA}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Acer Aspire\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Data\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-14T12:46:30.7364302+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,5 @@
+﻿Load=[Level2]
+
+Load=[Image][Position][Frames][MoveSpeed][Range][Health]
+
+EndLoad=[Level2]

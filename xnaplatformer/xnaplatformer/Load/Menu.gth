@@ -1,0 +1,13 @@
+Load=[Title]
+
+Load=[Axis][Align][Font][Animation]
+[2][Center][FontItalic][Fade]
+
+Load=[Item][LinkType][LinkID]
+[NEW GAME][Screen][Story00]
+[LOAD LEVEL][Screen][SaveScreen]
+[OPTIONS][Screen][OptionsScreen]
+[CREDITS][Screen][CreditsScreen]
+[EXIT GAME][Screen][ExitScreen]
+
+EndLoad=[Title]

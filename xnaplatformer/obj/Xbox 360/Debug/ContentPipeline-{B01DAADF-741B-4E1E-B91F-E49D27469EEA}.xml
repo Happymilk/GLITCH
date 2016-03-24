@@ -1,0 +1,463 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>fade.png</Source>
+      <Name>fade</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\fade.xnb</Output>
+      <Time>2012-12-09T04:51:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>null.png</Source>
+      <Name>null</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\null.xnb</Output>
+      <Time>2012-12-09T18:47:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero.png</Source>
+      <Name>Hero</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Hero.xnb</Output>
+      <Time>2014-11-04T17:03:33.1576432+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\tileset1.png</Source>
+      <Name>TileSets\tileset1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\TileSets\tileset1.xnb</Output>
+      <Time>2014-11-09T13:45:01.0451706+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullets.png</Source>
+      <Name>Bullets</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Bullets.xnb</Output>
+      <Time>2014-11-08T18:35:15.3056053+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Splash\Image0.png</Source>
+      <Name>Splash\Image0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Splash\Image0.xnb</Output>
+      <Time>2014-11-08T19:18:18.8850439+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Splash\Image1.png</Source>
+      <Name>Splash\Image1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Splash\Image1.xnb</Output>
+      <Time>2014-11-08T19:20:02.7431044+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Splash\Image2.png</Source>
+      <Name>Splash\Image2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Splash\Image2.xnb</Output>
+      <Time>2014-11-08T19:20:02.7351127+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Splash\Image3.png</Source>
+      <Name>Splash\Image3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Splash\Image3.xnb</Output>
+      <Time>2014-11-08T19:20:02.7209548+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy.png</Source>
+      <Name>Enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Enemy.xnb</Output>
+      <Time>2014-11-09T03:53:06.9048936+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Teacher.png</Source>
+      <Name>Teacher</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Teacher.xnb</Output>
+      <Time>2014-11-09T03:53:06.9068954+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\TileSet.png</Source>
+      <Name>TileSets\TileSet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\TileSets\TileSet.xnb</Output>
+      <Time>2014-11-15T21:28:28.8950245+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Font.xnb</Output>
+      <Time>2014-10-26T22:43:13.8933091+03:00</Time>
+    </Item>
+    <Item>
+      <Source>FontSmall.spritefont</Source>
+      <Name>FontSmall</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\FontSmall.xnb</Output>
+      <Time>2014-11-15T13:53:27.723018+03:00</Time>
+    </Item>
+    <Item>
+      <Source>FontItalic.spritefont</Source>
+      <Name>FontItalic</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\FontItalic.xnb</Output>
+      <Time>2014-10-28T10:40:08.4520955+03:00</Time>
+    </Item>
+    <Item>
+      <Source>FontSmallItalic.spritefont</Source>
+      <Name>FontSmallItalic</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\FontSmallItalic.xnb</Output>
+      <Time>2014-11-15T13:52:52.1838193+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\death.wav</Source>
+      <Name>Sound\death</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Sound\death.xnb</Output>
+      <Time>2014-11-13T18:26:23.4827742+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\down.wav</Source>
+      <Name>Sound\down</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Sound\down.xnb</Output>
+      <Time>2014-11-13T18:26:23.4827742+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\jump.wav</Source>
+      <Name>Sound\jump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Sound\jump.xnb</Output>
+      <Time>2014-11-13T18:26:23.4827742+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\powerup.wav</Source>
+      <Name>Sound\powerup</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Sound\powerup.xnb</Output>
+      <Time>2014-11-13T18:26:23.4827742+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\step.wav</Source>
+      <Name>Sound\step</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Sound\step.xnb</Output>
+      <Time>2014-11-13T18:26:23.4827742+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\up.wav</Source>
+      <Name>Sound\up</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Sound\up.xnb</Output>
+      <Time>2014-11-13T18:26:23.4827742+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\back.wav</Source>
+      <Name>Sound\back</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Sound\back.xnb</Output>
+      <Time>2014-11-13T18:35:52.2778971+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\select.wav</Source>
+      <Name>Sound\select</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Sound\select.xnb</Output>
+      <Time>2014-11-13T18:35:52.2778971+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\01 - The beginning.mp3</Source>
+      <Name>Music\01 - The beginning</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\01 - The beginning.xnb</Output>
+      <Extra>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\01 - The beginning.wma</Extra>
+      <Time>2014-11-14T19:36:56.0895036+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\02 - Nature.mp3</Source>
+      <Name>Music\02 - Nature</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\02 - Nature.xnb</Output>
+      <Extra>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\02 - Nature.wma</Extra>
+      <Time>2014-11-14T19:36:56.09851+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\03 - The prologue.mp3</Source>
+      <Name>Music\03 - The prologue</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\03 - The prologue.xnb</Output>
+      <Extra>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\03 - The prologue.wma</Extra>
+      <Time>2014-11-14T19:36:56.1015121+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\04 - 755.mp3</Source>
+      <Name>Music\04 - 755</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\04 - 755.xnb</Output>
+      <Extra>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\04 - 755.wma</Extra>
+      <Time>2014-11-14T19:36:56.1085171+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\05 - F99.mp3</Source>
+      <Name>Music\05 - F99</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\05 - F99.xnb</Output>
+      <Extra>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\05 - F99.wma</Extra>
+      <Time>2014-11-14T19:36:56.1115192+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\06 - Morte.mp3</Source>
+      <Name>Music\06 - Morte</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\06 - Morte.xnb</Output>
+      <Extra>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\06 - Morte.wma</Extra>
+      <Time>2014-11-14T19:36:56.1175235+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\07 - Eyes.mp3</Source>
+      <Name>Music\07 - Eyes</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\07 - Eyes.xnb</Output>
+      <Extra>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\07 - Eyes.wma</Extra>
+      <Time>2014-11-14T19:36:56.1215264+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\08 - Night.mp3</Source>
+      <Name>Music\08 - Night</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\08 - Night.xnb</Output>
+      <Extra>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\08 - Night.wma</Extra>
+      <Time>2014-11-14T19:36:56.1275306+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\09 - Positive.mp3</Source>
+      <Name>Music\09 - Positive</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\09 - Positive.xnb</Output>
+      <Extra>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\09 - Positive.wma</Extra>
+      <Time>2014-11-14T19:36:56.1305328+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\10 - Abasement.mp3</Source>
+      <Name>Music\10 - Abasement</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\10 - Abasement.xnb</Output>
+      <Extra>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\10 - Abasement.wma</Extra>
+      <Time>2014-11-14T19:36:56.1345356+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\11 - Rooftops.mp3</Source>
+      <Name>Music\11 - Rooftops</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\11 - Rooftops.xnb</Output>
+      <Extra>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\11 - Rooftops.wma</Extra>
+      <Time>2014-11-14T19:36:56.1385384+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\12 - Gytreg.mp3</Source>
+      <Name>Music\12 - Gytreg</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\12 - Gytreg.xnb</Output>
+      <Extra>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\12 - Gytreg.wma</Extra>
+      <Time>2014-11-14T19:36:56.1425413+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\13 - Calm.mp3</Source>
+      <Name>Music\13 - Calm</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\13 - Calm.xnb</Output>
+      <Extra>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\13 - Calm.wma</Extra>
+      <Time>2014-11-14T19:36:56.1465441+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\14 - Siventic.mp3</Source>
+      <Name>Music\14 - Siventic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\14 - Siventic.xnb</Output>
+      <Extra>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\14 - Siventic.wma</Extra>
+      <Time>2014-11-14T19:36:56.1525484+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\15 - Slowmotion.mp3</Source>
+      <Name>Music\15 - Slowmotion</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\15 - Slowmotion.xnb</Output>
+      <Extra>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\15 - Slowmotion.wma</Extra>
+      <Time>2014-11-14T19:36:56.1575524+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\17 - Mixture.mp3</Source>
+      <Name>Music\17 - Mixture</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\17 - Mixture.xnb</Output>
+      <Extra>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\17 - Mixture.wma</Extra>
+      <Time>2014-11-14T19:36:56.1695605+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\18 - Unlimit.mp3</Source>
+      <Name>Music\18 - Unlimit</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\18 - Unlimit.xnb</Output>
+      <Extra>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\18 - Unlimit.wma</Extra>
+      <Time>2014-11-14T19:36:56.1947149+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\19 - Title.mp3</Source>
+      <Name>Music\19 - Title</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\19 - Title.xnb</Output>
+      <Extra>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\19 - Title.wma</Extra>
+      <Time>2014-11-14T19:36:56.201719+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\20 - The ending.mp3</Source>
+      <Name>Music\20 - The ending</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\20 - The ending.xnb</Output>
+      <Extra>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\20 - The ending.wma</Extra>
+      <Time>2014-11-14T19:36:56.2057218+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\16 - Grumpy.mp3</Source>
+      <Name>Music\16 - Grumpy</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\16 - Grumpy.xnb</Output>
+      <Extra>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\Music\16 - Grumpy.wma</Extra>
+      <Time>2014-11-14T20:13:01.3157384+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{B01DAADF-741B-4E1E-B91F-E49D27469EEA}</ContentProjectGUID>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformerContent\</RootDirectory>
+      <LoggerRootDirectory>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\Xbox 360\Debug\Data\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-14T12:46:30.7364302+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

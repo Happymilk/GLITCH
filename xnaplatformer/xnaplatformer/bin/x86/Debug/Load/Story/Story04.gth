@@ -1,0 +1,9 @@
+﻿Load=[Title]
+
+Load=[Axis][Align][Font][Animation]
+[2][Center][FontItalic][Fade]
+
+Load=[Item][LinkType][LinkID]
+[TO COGNITION.][Screen][Story10]
+
+EndLoad=[Title]
